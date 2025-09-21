@@ -1,9 +1,9 @@
 import openai
 
 client = openai.AzureOpenAI(
-        api_version="2024-06-01",
-        azure_endpoint="https://genai-nexus.int.api.corpinter.net/apikey/",
-        api_key="06c9643f-90c3-4b7a-8560-5b5e5a0d2730",
+        api_version="api version",
+        azure_endpoint="api endpoint",
+        api_key="api key ",
     )
 
 
